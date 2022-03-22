@@ -1,2 +1,2 @@
-# C37-Actividad de la maestra 2
+# C37 multijugador
 Código de referencia
